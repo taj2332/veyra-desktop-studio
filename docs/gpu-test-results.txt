@@ -1,0 +1,26 @@
+GPU: ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F82) Direct3D11 vs_5_0 ps_5_0, D3D11)
+"{\"frames\":214,\"ready\":true,\"failed\":false,\"width\":1920,\"height\":1080,\"visibility\":\"visible\",\"error\":\"\"}"
+{"Frames":358,"Fps":59,"P95":16.9,"Width":1920,"Height":1080,"Renderer":"ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F82) Direct3D11 vs_5_0 ps_5_0, D3D11)","Error":null,"Ready":true,"Paused":false}
+PASS: temporal GPU capture changes pixels
+PASS: static GPU scene freezes pixels within capture tolerance
+PASS: Night mood lowers scene luminance
+PASS: pause freezes GPU motion
+PASS: WebGL scene alpine
+PASS: WebGL scene neon
+PASS: WebGL scene silk
+PASS: WebGL scene aurora
+PASS: WebGL scene dune
+PASS: WebGL scene orbit
+PASS: WebGL scene bloom
+PASS: WebGL scene tide
+PASS: WebGL scene summit
+PASS: WebGL scene ember
+PASS: WebGL scene cosmos
+PASS: WebGL scene rain
+PASS: WebGL scene forest
+PASS: WebGL scene mono
+PASS: WebGL scene sakura
+PASS: WebGL scene lagoon
+PASS: virtual GPU viewport and edge clock 3840x2160
+PASS: virtual GPU viewport and edge clock 3440x1440
+PASS: virtual GPU viewport and edge clock 720x1280

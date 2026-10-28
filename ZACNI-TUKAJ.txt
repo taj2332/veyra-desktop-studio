@@ -1,0 +1,25 @@
+VEYRA DESKTOP STUDIO 0.3.0 — predogledna izdaja
+
+1. Zapri stare kopije prek sistemskega pladnja.
+2. Razširi celoten ZIP. EXE, konfiguracija in vse DLL datoteke morajo ostati skupaj.
+3. Za ohranitev knjižnice in originalnega namizja prekopiraj staro mapo VeyraData ob novi EXE.
+4. Odpri Veyra.exe, izberi sceno in Apply desktop.
+5. Flow studio: Studio / Focus / Night, 25- ali 50-minutna fokusna seja, Match palette to photo in Remix signature.
+6. Save a copy in Export pack shranita tvoj prenosljiv videz. Zasebni časovnik ni del izvoza.
+
+Zapiranje studia ohrani namizje v pladnju. Quit Veyra ga zapre.
+Naslednji zagon nadaljuje zadnji aktivni videz. Stop live desktop izključi nadaljevanje.
+Preferences -> Restore saved desktop obnovi zajeta statična ozadja in nastavitve.
+Za barvni Windows taskbar uporabi temni način in Sync Windows colors & mode.
+
+Ultra: izris pri ločljivosti zaslona. Balanced: nižja ločljivost shaderja, ostra ura.
+15/30/60 FPS so cilji. Na GTX 1650 pri 1080p je bilo izmerjeno približno 60 FPS.
+Windows x64, .NET Framework 4.8 in Microsoft WebView2 Runtime so potrebni.
+Windows 11 ga običajno že ima; povezava je tudi v Preferences.
+
+To je predogled, ne stabilna izdaja za vse naprave. Več fizičnih monitorjev, mešani DPI in HDR še potrebujejo testiranje.
+Video ozadja, poljubne preobleke taskbarja in sistemska zamenjava ikon niso vključeni.
+Priloženi fotografiji nista izvorno 4K; proceduralne scene se izrisujejo pri ciljni ločljivosti.
+
+Discord: https://discord.gg/wuZSKphzmP
+Predvideni repozitorij: taj2332/veyra-desktop-studio (javna objava še ni potrjena).

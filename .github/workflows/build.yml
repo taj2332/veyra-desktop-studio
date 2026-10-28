@@ -1,0 +1,31 @@
+name: Windows build
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile and check
+        shell: powershell
+        run: ./build.ps1 -Test
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Veyra-windows-x64-preview
+          path: |
+            dist/
+            README.md
+            LICENSE
+            ARTWORK.md
+            preview-v0.3.png
+            flow-v0.3.png
+            vendor/webview2/LICENSE.txt
+            vendor/webview2/NOTICE.txt
+            assets/brand/
+            assets/wallpapers/PROMPTS.md
+            templates/
+            docs/

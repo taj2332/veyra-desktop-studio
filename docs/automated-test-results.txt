@@ -1,0 +1,110 @@
+PASS: sixteen starter packs
+PASS: configured Discord invite is available by default
+PASS: pack roundtrip: Alpine Reverie
+PASS: pack roundtrip: After Hours
+PASS: pack roundtrip: Liquid Silk
+PASS: pack roundtrip: Aurora
+PASS: pack roundtrip: Dune
+PASS: pack roundtrip: Orbit
+PASS: pack roundtrip: Bloom
+PASS: pack roundtrip: Tide
+PASS: pack roundtrip: Summit
+PASS: pack roundtrip: Ember
+PASS: pack roundtrip: Deep Space
+PASS: pack roundtrip: Rain Room
+PASS: pack roundtrip: Woodland
+PASS: pack roundtrip: Monochrome
+PASS: pack roundtrip: Sakura
+PASS: pack roundtrip: Lagoon
+PASS: reject path traversal ID
+PASS: reject executable scene type
+PASS: reject invalid color
+PASS: reject unsupported schema
+PASS: reject invalid motion
+PASS: require content rights statement
+PASS: favorites persist
+PASS: duplicate import gets independent ID
+PASS: shared local paths are discarded
+PASS: local dock executable paths are not exported
+PASS: render scene: Alpine Reverie
+PASS: render scene: After Hours
+PASS: render scene: Liquid Silk
+PASS: render scene: Aurora
+PASS: render scene: Dune
+PASS: render scene: Orbit
+PASS: render scene: Bloom
+PASS: render scene: Tide
+PASS: render scene: Summit
+PASS: render scene: Ember
+PASS: render scene: Deep Space
+PASS: render scene: Rain Room
+PASS: render scene: Woodland
+PASS: render scene: Monochrome
+PASS: render scene: Sakura
+PASS: render scene: Lagoon
+PASS: animation changes rendered pixels: Alpine Reverie
+PASS: animation changes rendered pixels: After Hours
+PASS: animation changes rendered pixels: Liquid Silk
+PASS: animation changes rendered pixels: Aurora
+PASS: animation changes rendered pixels: Dune
+PASS: animation changes rendered pixels: Orbit
+PASS: animation changes rendered pixels: Bloom
+PASS: animation changes rendered pixels: Tide
+PASS: animation changes rendered pixels: Summit
+PASS: animation changes rendered pixels: Ember
+PASS: animation changes rendered pixels: Deep Space
+PASS: animation changes rendered pixels: Rain Room
+PASS: animation changes rendered pixels: Woodland
+PASS: animation changes rendered pixels: Monochrome
+PASS: animation changes rendered pixels: Sakura
+PASS: animation changes rendered pixels: Lagoon
+PASS: static toggle freezes rendered frames
+PASS: responsive clock and artwork: 1920x1080
+PASS: responsive clock and artwork: 1720x720
+PASS: responsive clock and artwork: 720x1280
+PASS: Windows accent channel order
+PASS: reject clock outside viewport
+PASS: reject unknown taskbar mode
+PASS: bundled artwork becomes self-contained on export
+PASS: embedded PNG accepted
+PASS: render embedded image
+PASS: reject image signature mismatch
+PASS: reject oversized compressed image before decoding
+PASS: JPEG dimensions and signature accepted
+PASS: distributed template parses: alpine.veyra.json
+PASS: distributed template parses: aurora.veyra.json
+PASS: distributed template parses: bloom.veyra.json
+PASS: distributed template parses: cosmos.veyra.json
+PASS: distributed template parses: dune.veyra.json
+PASS: distributed template parses: ember.veyra.json
+PASS: distributed template parses: forest.veyra.json
+PASS: distributed template parses: lagoon.veyra.json
+PASS: distributed template parses: mono.veyra.json
+PASS: distributed template parses: neon.veyra.json
+PASS: distributed template parses: orbit.veyra.json
+PASS: distributed template parses: rain.veyra.json
+PASS: distributed template parses: sakura.veyra.json
+PASS: distributed template parses: silk.veyra.json
+PASS: distributed template parses: summit.veyra.json
+PASS: distributed template parses: tide.veyra.json
+PASS: old libraries migrate without losing remixes or favorites
+PASS: old official starters receive the new animation defaults
+PASS: v0.2 dock removed without losing creator settings or favorites
+PASS: new exports omit retired dock and experimental taskbar behavior
+PASS: starters use Windows taskbar appearance controls
+PASS: Flow mood and deterministic seed travel with a pack
+PASS: reject unknown Flow mood
+PASS: reject negative scene seed
+PASS: bound procedural scene seed
+PASS: Night coordinates a darker Windows accent
+PASS: focus countdown follows UTC rather than rendered frame count
+PASS: invalid or expired focus sessions cannot become negative
+PASS: photo palette preserves dominant hue
+PASS: last applied recipe survives reopening
+PASS: private focus countdown is excluded from shared recipes
+PASS: production XAML loads with Flow navigation
+PASS: expired offline focus session restores its previous mood
+PASS: corrupt library is preserved and recovered
+PASS: tests do not change wallpaper or appearance
+
+108 checks passed. No desktop settings modified.

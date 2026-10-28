@@ -1,0 +1,11 @@
+dist/
+VeyraData/
+test-output/
+*.tmp
+*.pdb
+*.zip
+.vs/
+StudioRuntime/
+DesktopRuntime/
+WebView2/
+work/

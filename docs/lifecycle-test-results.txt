@@ -1,0 +1,3 @@
+PASS: second launch reuses the existing UI
+PASS: different data folders cannot start duplicate studios
+PASS: quit signal exits the application

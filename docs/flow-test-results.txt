@@ -1,0 +1,5 @@
+PASS: focus session reaches the GPU desktop and countdown
+PASS: focus expiry restores Night and clears private countdown
+PASS: repeated GPU view navigation without hosted-window errors
+PASS: theme changes and view navigation keep one desktop renderer
+PASS: original desktop restored after Flow integration scenario

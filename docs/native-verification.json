@@ -1,0 +1,24 @@
+{
+  "Version": "0.3.0",
+  "WindowsBuild": 26300,
+  "PhysicalDisplays": 1,
+  "Resolution": "1920x1080",
+  "Renderer": "WebView2 / ANGLE D3D11 / WebGL",
+  "AutomatedChecks": 108,
+  "GpuChecks": 23,
+  "FlowChecks": 5,
+  "NativeChecks": 8,
+  "LifecycleChecks": 3,
+  "SavedAppearanceValuesRestored": 11,
+  "ClockObservedInExplorerDwmThumbnail": true,
+  "MeasuredRenderLoopFps": 60,
+  "RenderLoopIsNotCompositionTiming": true,
+  "ReaBinaryAnalysisPerformed": false,
+  "Unverified": [
+    "multiple physical monitors",
+    "mixed DPI",
+    "HDR",
+    "sleep/resume",
+    "other GPUs and Windows builds"
+  ]
+}

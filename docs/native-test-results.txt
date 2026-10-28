@@ -1,0 +1,8 @@
+PASS: native wallpaper application and WebGL host initialization
+PASS: taskbar auto-hide and desktop icon visibility applied
+PASS: native taskbar accent and transparency options applied
+PASS: live frame count advanced to 360
+PASS: live palette and clock style update while rendering
+PASS: all 11 saved appearance values restored after settling
+PASS: original taskbar and icon visibility restored
+PASS: original wallpaper restoration completed
